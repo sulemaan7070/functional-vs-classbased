@@ -11,10 +11,8 @@ function FunctionalCounter() {
   }
   return (
     <div>
-  
-        
+      
         <h1>{num}</h1>
-
       
       <button onClick={handleAdd}>+</button>
       <button onClick={handleMinus}>-</button>
